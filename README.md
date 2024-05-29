@@ -1,4 +1,4 @@
-# recognizing_solarpanels
+## recognizing_solarpanels
 
 # Overview
 This project aims to recognize solar panels in aerial images from Swisstopo using Convolutional Neural Networks (CNN).
